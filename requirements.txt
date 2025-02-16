@@ -1,4 +1,7 @@
 streamlit
 gtts
-moviepy
+moviepy==1.0.3
 imageio[ffmpeg]
+numpy
+scipy
+ffmpeg-python
